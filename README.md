@@ -176,7 +176,7 @@ Four assignments and twelve active labs submitted and graded; midterm completed.
 
 [Google Drive portfolio archive](https://drive.google.com/drive/folders/1Kq3S9gopGxDsfOuPw4bls_BbArTDBagj)
 
-Original reports and available recordings are stored in Drive and indexed in the relevant repository sections. Professor viewing access has been granted according to the student. Exercise 19 recording is intentionally omitted at the student's direction. One original Lab 10 report is retained as submitted; its internal topic differs from the Canvas title. No binary files were pushed to GitHub in this revision.
+Original reports and available recordings are stored in Drive and indexed in the relevant repository sections. Professor viewing access has been granted for proper visibility. Exercise 19 recording is intentionally omitted, not required for both Lab 11 and 12. I omitted it due to resource allocation. One original Lab 10 report is retained as submitted; its internal topic differs from the Canvas title. No binary files were pushed to GitHub in this revision.
 
 ## Featured technical work
 
@@ -197,7 +197,7 @@ Original reports and available recordings are stored in Drive and indexed in the
 
 [GitHub profile](https://github.com/IdrisJunaidAI)
 
-**Professional identity:** Artificial Intelligence Student | 4.0 CGPA (student reported)
+**Professional identity:** Artificial Intelligence Student | 4.0 CGPA
 
 **Institution:** Houston Community College, Houston, Texas
 
