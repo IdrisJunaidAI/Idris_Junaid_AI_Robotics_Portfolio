@@ -1,6 +1,6 @@
 # Shared evidence: Labs 11 and 12
 
-Seven recordings received separately; binary upload pending.
+Six recordings hosted in Google Drive; Exercise 19 intentionally excluded at the student's direction.
 
 | ID | Demonstration |
 | --- | --- |

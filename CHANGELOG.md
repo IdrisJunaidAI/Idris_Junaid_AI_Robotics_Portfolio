@@ -11,3 +11,7 @@ All nine primary midterm recordings and all fourteen unique Lab 7 to 9 recording
 ## Evidence scope decision
 
 Student directed omission of Exercise 19 recording and selection of one original Lab 10 PDF. No further collection required for these items. Original Lab 10 content remains unchanged.
+
+## Evidence scope confirmation
+
+Student directed exclusion of Exercise 19, retention of one original Lab 10 submission with its scope discrepancy disclosed, and confirmed professor viewing access to Drive. No changes to Drive permissions were made.

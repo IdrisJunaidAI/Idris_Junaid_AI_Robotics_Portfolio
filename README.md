@@ -170,7 +170,7 @@ group activities and third party implementations.
 
 ## Current portfolio status
 
-Four assignments and twelve active labs submitted and graded; midterm completed. Lab 13 cancelled. Final capstone in progress. This initial repository revision contains browser-readable summaries and evidence registers. Original reports and video files have been received separately but are not yet published in this repository. Lab 10 original submission retained with its internal topic noted.
+Four assignments and twelve active labs submitted and graded; midterm completed. Lab 13 cancelled. Final capstone in progress. This initial repository revision contains browser-readable summaries and evidence registers. Original reports and available videos are hosted in Google Drive and linked below. Lab 10 original submission retained with its internal topic noted.
 
 ## Original academic evidence archive
 
