@@ -9,7 +9,7 @@ Seven recordings received separately; binary upload pending.
 | VID015B | OpenAI TTS |
 | VID016 | Vosk STT |
 | VID017 | Ollama text dialogue |
-| VID019 | Local voice chatbot |
+| VID019 | Local voice chatbot (omitted at student direction) |
 | VID020 | AI voice assistant |
 
 Three screenshots received, including two visually duplicate Ollama captures and one GPT text chat capture. Review identifiers before publication. Text dialogue does not establish camera or actuator integration.
@@ -29,4 +29,4 @@ Original files stored in Drive, not in Git history. Viewing requires appropriate
 * [15. TTS Piper-1.mov](https://drive.google.com/file/d/1DfpI0I-VZQR9kpakbTo6u3nQrMwjTmMt/view?usp=drivesdk)
 * [14.TTS Espeak Pico2Wave-1.mov](https://drive.google.com/file/d/1ZnS3dkyZk650UTjYV1SxllPvAr50xN1D/view?usp=drivesdk)
 
-Exercise 19 local voice chatbot recording: upload unsuccessful; pending.
+Exercise 19 local voice chatbot recording: omitted at the student's direction. No further upload planned.

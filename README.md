@@ -170,10 +170,10 @@ group activities and third party implementations.
 
 ## Current portfolio status
 
-Four assignments and twelve active labs submitted and graded; midterm completed. Lab 13 cancelled. Final capstone in progress. This initial repository revision contains browser-readable summaries and evidence registers. Original reports and video files have been received separately but are not yet published in this repository. Lab 10 document requires clarification.
+Four assignments and twelve active labs submitted and graded; midterm completed. Lab 13 cancelled. Final capstone in progress. This initial repository revision contains browser-readable summaries and evidence registers. Original reports and video files have been received separately but are not yet published in this repository. Lab 10 original submission retained with its internal topic noted.
 
 ## Original academic evidence archive
 
 [Google Drive portfolio archive](https://drive.google.com/drive/folders/1Kq3S9gopGxDsfOuPw4bls_BbArTDBagj)
 
-Original reports and available recordings are stored in Drive and indexed in the relevant repository sections. Drive permissions are unchanged; professor access must be granted before submission. Exercise 19 upload remains pending. The Lab 10 scope discrepancy remains unresolved. No binary files were pushed to GitHub in this revision.
+Original reports and available recordings are stored in Drive and indexed in the relevant repository sections. Drive permissions are unchanged; professor access must be granted before submission. Exercise 19 recording is intentionally omitted at the student's direction. One original Lab 10 report is retained as submitted; its internal topic differs from the Canvas title. No binary files were pushed to GitHub in this revision.
