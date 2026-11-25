@@ -1,7 +1,3 @@
 # Assignment 4: Robot HAT Hardware Components Documentation
 
-**Academic status:** Completed and graded.
-
-Robot HAT MCU, PWM, ADC, interfaces, power and PiDog integration. Editable reconstruction received; original Canvas illustrations pending.
-
-**Original document:** Received separately; binary upload pending.
+Completed and graded. Original illustrated Word document now received, superseding the earlier text reconstruction for portfolio purposes. Contains three embedded images and discusses MCU timing, PWM, ADC, interfaces, power and PiDog integration. Binary upload pending.

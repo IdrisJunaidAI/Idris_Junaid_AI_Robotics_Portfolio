@@ -1,5 +1,7 @@
 # Midterm evidence register
 
+All nine primary recordings have been received separately. Binary publication remains pending.
+
 | ID | Demonstration | Receipt status |
 | --- | --- | --- |
 | EV01 | Lab 7 functions 1 to 20 | Received |
@@ -8,8 +10,8 @@
 | EV04 | Face tracking | Received |
 | EV05 | Push up | Received |
 | EV06 | Keyboard control | Received |
-| EV07 | Ball tracking | Received |
-| EV08 | Lab 9 app control video 1 | Pending |
-| EV09 | Lab 9 app control video 3 | Pending |
+| EV07 | Ball tracking, video 8 | Received |
+| EV08 | Lab 9 app control video 1 | Received |
+| EV09 | Lab 9 app control video 3 | Received |
 
-Binary publication pending. Duplicate copies need not be published. Evidence IDs follow the submitted notebook.
+Project 12 video 2 is supplemental, not a tenth primary midterm evidence ID. Team 3 demonstrations are shared evidence. SHA256 comparison confirms duplicate copies across lab and midterm filenames. No new performance claims are inferred from receipt.

@@ -1,13 +1,5 @@
 # Lab 9: Vision Guided Behavior: Face Tracking
 
-**Academic status:** Submitted and graded.
+Submitted and graded. Report and all three Project 12 app control recordings received. Continuous automatic face following is not established by the report. Binary upload pending.
 
-## Technical scope and evidence boundary
-
-Project 12 app control sessions; continuous automatic face following not established.
-
-## Documentation
-
-Original report received separately; binary upload pending.
-
-[Midterm shared demonstration register](../../04_Midterm_Project/Demonstrations/)
+[Shared evidence register](../Shared_Evidence/LAB07_LAB09/)

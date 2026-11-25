@@ -1,13 +1,5 @@
 # Lab 7: Balance, Recovery, and Motion Refinement
 
-**Academic status:** Submitted and graded.
+Submitted and graded. Reflection and both function demonstration recordings (1 to 20 and 21 to 27) received. The original report distinguishes qualitative motion evidence from measured stability and recovery. Binary upload pending.
 
-## Technical scope and evidence boundary
-
-Function demonstration covering numbered motion and audio selections; full video set not yet available for publishing.
-
-## Documentation
-
-Original report received separately; binary upload pending.
-
-[Midterm shared demonstration register](../../04_Midterm_Project/Demonstrations/)
+[Shared evidence register](../Shared_Evidence/LAB07_LAB09/)
