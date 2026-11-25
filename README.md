@@ -177,3 +177,24 @@ Four assignments and twelve active labs submitted and graded; midterm completed.
 [Google Drive portfolio archive](https://drive.google.com/drive/folders/1Kq3S9gopGxDsfOuPw4bls_BbArTDBagj)
 
 Original reports and available recordings are stored in Drive and indexed in the relevant repository sections. Drive permissions are unchanged; professor access must be granted before submission. Exercise 19 recording is intentionally omitted at the student's direction. One original Lab 10 report is retained as submitted; its internal topic differs from the Canvas title. No binary files were pushed to GitHub in this revision.
+
+## Featured technical work
+
+| Project | Evidence and implementation |
+| --- | --- |
+| [Lab 1: numerical PWM model](03_Laboratory_Experiments/LAB01_Hardware_Software_Introduction/) | Reconstructed host-only model of documented calculations; conceptual example |
+| [Lab 3: finite action sequence](03_Laboratory_Experiments/LAB03_Foundational_Motion_Control/) | Python listing transcribed from submitted report; physical validation pending |
+| [Lab 4: interactive control shell](03_Laboratory_Experiments/LAB04_Sensors_Lights_Interactive_Shells/) | Python listing transcribed from submitted report; physical validation pending |
+| [Midterm integration](04_Midterm_Project/) | Individual report and notebook, Team 3 demonstrations |
+| [Labs 11 and 12: voice and LLM integration](03_Laboratory_Experiments/Shared_Evidence/LAB11_LAB12/) | Shared speech and language demonstrations; performance metrics not measured |
+| [Human Temperature Detection Using PiDog](05_Final_Capstone/Human_Temperature_Detection_PiDog/) | Collaborative capstone in progress |
+
+## Reproducibility
+
+[Runtime environment, data access and safety](ENVIRONMENT.md) | [Host simulation dependencies](requirements.txt)
+
+## Professional contact
+
+[GitHub profile](https://github.com/IdrisJunaidAI)
+
+Other professional contact details have not been supplied for publication.

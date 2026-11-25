@@ -8,4 +8,16 @@ Mechanical and sensor preparation, reference keyboard and SSH workflow; function
 
 ## Documentation
 
-Original report received separately; binary upload pending.
+Original report received separately; Original document is hosted in Google Drive.
+
+## Original report and data access
+
+[Open submitted report](https://drive.google.com/file/d/1qu6GHOTtZ0G3rrTYNs4NAcYip-mMpTl6/view). No standalone dataset supplied. See [environment and safety guidance](../../ENVIRONMENT.md).
+
+## Reproduction and run instructions
+
+Reference examples: `sudo python3 4_response.py` and `sudo python3 11_keyboard_control.py` from `~/pidog/examples`. Actual original script not supplied.
+
+## Learning and next steps
+
+Separate local input, network transport and physical response.

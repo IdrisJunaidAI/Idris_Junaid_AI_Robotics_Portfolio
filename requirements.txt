@@ -1,0 +1,3 @@
+# Host-only Lab 1 examples use Python 3 standard library only.
+# Hardware examples require SunFounder PiDog, Robot HAT and related dependencies.
+# Install using official revision-specific instructions; see ENVIRONMENT.md.
